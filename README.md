@@ -1,5 +1,6 @@
 # Snake-Reinforcement-Learning
 This is a demonstration of using Q-Learning for the game _Snake_.
+<br>
 ![](media.gif)
 
 ## Usage
