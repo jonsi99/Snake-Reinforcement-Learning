@@ -157,7 +157,7 @@ class AI:
             print(str(i) + '/' + str(iters), end='\r')
         print()
 
-    def run(self, seed=None, delay=0):
+    def run(self, seed=None, delay=0.01):
         print('\33[2J')
         rd.seed(seed)
         game = Game()
